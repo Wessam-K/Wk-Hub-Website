@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Wk-Hub-Wesbite/',
+  base: '/Wk-Hub-Website/',
   server: {
     port: 8000,
     open: true

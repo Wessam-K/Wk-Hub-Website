@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- English Pages -->
+  <url>
+    <loc>https://wk-hub.com/</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://wk-hub.com/ar" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://wk-hub.com/build</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://wk-hub.com/ar/build" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wk-hub.com/about</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://wk-hub.com/ar/about" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wk-hub.com/contact</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://wk-hub.com/ar/contact" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wk-hub.com/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://wk-hub.com/ar/privacy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://wk-hub.com/terms</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://wk-hub.com/ar/terms" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://wk-hub.com/security</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://wk-hub.com/ar/security" />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Arabic Pages -->
+  <url>
+    <loc>https://wk-hub.com/ar</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wk-hub.com/" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://wk-hub.com/ar/build</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wk-hub.com/build" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wk-hub.com/ar/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wk-hub.com/about" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wk-hub.com/ar/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wk-hub.com/contact" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wk-hub.com/ar/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wk-hub.com/privacy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://wk-hub.com/ar/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wk-hub.com/terms" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://wk-hub.com/ar/security</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wk-hub.com/security" />
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

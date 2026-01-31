@@ -1,0 +1,9 @@
+# WK-Hub Robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://wk-hub.com/sitemap.xml
+
+# Crawl delay (optional, helps avoid server overload)
+Crawl-delay: 1

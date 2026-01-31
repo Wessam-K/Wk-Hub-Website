@@ -53,7 +53,7 @@ function AppLayout() {
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Wk-Hub-Website">
       <AppLayout />
     </BrowserRouter>
   )

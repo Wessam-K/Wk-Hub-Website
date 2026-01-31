@@ -1,94 +1,54 @@
-# WK-Hub Marketing Website
+# 🚀 WK-Hub Marketing Website
 
-A modern, professional SaaS marketing website for the WK-Hub POS system.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://wessam-k.github.io/Wk-Hub-Wesbite/)
+[![Mobile Optimized](https://img.shields.io/badge/Mobile-Optimized-brightgreen?style=for-the-badge)](https://wessam-k.github.io/Wk-Hub-Wesbite/)
+[![SEO Ready](https://img.shields.io/badge/SEO-Ready-orange?style=for-the-badge)](#seo-features)
 
-## 🚀 Features
+> **Complete Business Management System** - Arabic-first POS, Inventory, Accounting, CRM built for Egyptian businesses.
 
-### Pages
-- **Home** - Hero section with floating particles, interactive POS demo, AI agent demo, features grid, pricing, FAQ
-- **Build Your App** - 4-step wizard for custom solution requests
-- **About** - Company story, team, values, milestones, technology stack
-- **Contact** - Contact form, office info, support tiers, FAQ
+## 🌐 Live Website
 
-### Technical Features
-- ⚡ **React 18** + **TypeScript**
-- 🎨 **Tailwind CSS** for styling
-- 🎭 **Framer Motion** for animations
-- 🧭 **React Router v7** for navigation
-- 📱 **Fully responsive** design
-- ✨ **Interactive elements**:
-  - Mouse-follow glow effect
-  - Floating particles
-  - Parallax scrolling
-  - Animated counters
-  - Interactive POS demo
-  - AI chat simulation
+**🔗 Visit**: [https://wessam-k.github.io/Wk-Hub-Wesbite/](https://wessam-k.github.io/Wk-Hub-Wesbite/)
 
-## 🛠️ Development
+---
 
-### Install dependencies
+## ✨ Features
+
+- ✅ **Mobile-First Design** - Works on all devices
+- ✅ **SEO Optimized** - Meta tags, sitemap, structured data
+- ✅ **Bilingual** - English & Arabic (RTL support)
+- ✅ **Interactive POS Demo** - Live cart simulation
+- ✅ **Smooth Animations** - Framer Motion
+- ✅ **Modern UI** - Gradient effects, glass morphism
+
+## 🛠️ Tech Stack
+
+- **Vite 6.0.5** - Build tool
+- **React 18.3.1** - UI framework
+- **TypeScript 5.6.3** - Type safety
+- **TailwindCSS 3.4.17** - Styling
+- **Framer Motion 12.27.0** - Animations
+- **React Router 7.12.0** - Routing
+
+## 📦 Quick Start
+
 ```bash
+# Install dependencies
 npm install
-```
 
-### Start development server
-```bash
+# Run dev server (port 8000)
 npm run dev
-```
-Opens at http://localhost:8000
 
-### Build for production
-```bash
+# Build for production
 npm run build
 ```
 
-### Preview production build
-```bash
-npm run preview
-```
+## 📚 Documentation
 
-## 📁 Project Structure
+- [SEO Optimization Guide](MOBILE-SEO-OPTIMIZATION.md)
+- [Testing Guide](MOBILE-TESTING-GUIDE.md)
+- [Deployment Instructions](GITHUB-PAGES-DEPLOYMENT.md)
 
-```
-src/
-├── components/
-│   ├── Navbar.tsx      # Animated navigation with mobile menu
-│   └── Footer.tsx      # Footer with newsletter signup
-├── pages/
-│   ├── HomePage.tsx    # Main landing page with all sections
-│   ├── BuildPage.tsx   # 4-step custom solution wizard
-│   ├── AboutPage.tsx   # Company info & team
-│   └── ContactPage.tsx # Contact form & support info
-├── App.tsx             # Router setup
-├── main.tsx            # Entry point
-└── index.css           # Global styles & Tailwind config
-```
+---
 
-## 🎨 Design System
-
-### Colors
-- **Primary**: Indigo-600 (`#4F46E5`)
-- **Accent**: Cyan-500 (`#06B6D4`)
-- **Gradient**: `from-indigo-600 to-cyan-500`
-
-### Typography
-- **Font**: Inter (Google Fonts)
-- **Weights**: 300-900
-
-### Components
-- Rounded corners (`rounded-xl`, `rounded-2xl`, `rounded-3xl`)
-- Soft shadows (`shadow-lg`, `shadow-xl`)
-- Gradient backgrounds
-- Hover animations
-
-## 📱 Responsive Breakpoints
-- Mobile: < 768px
-- Tablet: 768px - 1024px
-- Desktop: > 1024px
-
-## 🔗 Related Links
-- Main POS System: `../wk-pos-system`
-- Admin Panel: `../wk-pos-system/admin-panel`
-
-## 📄 License
-Proprietary - WK-Hub © 2026
+**Made with ❤️ by WK-Hub Team** | [GitHub](https://github.com/Wessam-K/Wk-Hub-Wesbite)
